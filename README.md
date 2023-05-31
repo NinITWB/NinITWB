@@ -1,4 +1,6 @@
-<h1 align="center"> Hello! 👋 I am Cat Phu
+<link rel="stylesheet", href="decor.css"/>
+
+<h1 id="head1" align="center"> Hello! 👋 I am Cat Phu
 <br>  A game developer
 </h1>
 
