@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-***About me:***
+<h3><i>About me:</i></h3>
 
 <p>_I am currently a man who is interested in <strong>designing games</strong> and <strong>studying AI</strong>.</p>
 <p>_I am open to work as an intern to gain experiences.</p>
@@ -20,7 +20,7 @@
 <a href=https://www.facebook.com/phude123/"><img align="center" src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-facebook.svg" alt="Facebook"      height="70" width="100"/></a>
 </p>
 
-***What i learned***:
+<h3><i>What i learned:</i></h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="65"/> </a>&emsp;
 <img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-unity-250.svg" alt="Unity" width="70" height="65"/>&emsp;
 <img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-c-sharp-logo.svg" alt="C_Sharp" width="70" height="65"/>&emsp;  
