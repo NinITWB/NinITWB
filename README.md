@@ -21,10 +21,10 @@
 </p>
 
 ***What i learned***:
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="85"/> </a>&emsp;
-<img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-unity-250.svg" alt="Unity" width="90" height="85"/>&emsp;
-<img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-c-sharp-logo.svg" alt="C_Sharp" width="90" height="85"/>&emsp;  
-<img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-c.svg" alt="C++" width="90" height="85"/>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="65"/> </a>&emsp;
+<img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-unity-250.svg" alt="Unity" width="70" height="65"/>&emsp;
+<img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-c-sharp-logo.svg" alt="C_Sharp" width="70" height="65"/>&emsp;  
+<img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-c.svg" alt="C++" width="70" height="65"/>
 </p>
 
 <table>
