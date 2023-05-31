@@ -1,19 +1,35 @@
-<h1 align="center"> Hello! 👋 I am Cat Phu
-<br>  A game developer
+<h1 id="head1" align="center"> Hello! 👋 I am Cat Phu
+  <br> <p>A programmer</p>
 </h1>
+<br>
 
+***About me:***
 
-<!--
-**NinITWB/NinITWB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>_I am currently a man who is interested in <strong>designing games</strong> and <strong>studying AI</strong>.</p>
+<p>_I am open to work as an intern to gain experiences.</p>
+<p>_I keen on generating and learning new things.</p>
 
-Here are some ideas to get you started:
+<h3>📫 <b>How to reach me:</b></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☎️ 0935026145
+- 📧 luffydn03@gmail.com
+  
+<h3>🤝 <b>Connect with me:</b></h3>
+<p>
+<a href="https://www.linkedin.com/in/catphu003/"><img align="center" src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-linkedin.svg"               alt="Linkedln" height="70" width="100"/></a> <em>or</em> 
+<a href=https://www.facebook.com/phude123/"><img align="center" src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-facebook.svg" alt="Facebook"      height="70" width="100"/></a>
+</p>
+
+***What i learned***:
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="85"/> </a>&emsp;
+<img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-unity-250.svg" alt="Unity" width="90" height="85"/>&emsp;
+<img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-c-sharp-logo.svg" alt="C_Sharp" width="90" height="85"/>&emsp;  
+<img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-c.svg" alt="C++" width="90" height="85"/>
+</p>
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=NinITWB&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinITWB&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
