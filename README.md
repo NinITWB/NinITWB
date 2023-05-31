@@ -17,7 +17,7 @@
 <h3>🤝 <b>Connect with me:</b></h3>
 <p>
 <a href="https://www.linkedin.com/in/catphu003/"><img align="center" src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-linkedin.svg"               alt="Linkedln" height="70" width="100"/></a> <em>or</em> 
-<a href=https://www.facebook.com/phude123/"><img align="center" src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-facebook.svg" alt="Facebook"      height="70" width="100"/></a>
+<a href="https://www.facebook.com/phude123/"><img align="center" src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-facebook.svg" alt="Facebook"      height="70" width="100"/></a>
 </p>
 
 <h3><i>What i learned:</i></h3>
