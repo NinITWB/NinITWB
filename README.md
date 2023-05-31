@@ -1,7 +1,6 @@
 <h1 id="head1" align="center"> Hello! 👋 I am Cat Phu
   <br> <p>A programmer</p>
 </h1>
-<br>
 
 <h3><i>About me:</i></h3>
 
