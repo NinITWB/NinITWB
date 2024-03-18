@@ -25,10 +25,3 @@
 <img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-c-sharp-logo.svg" alt="C_Sharp" width="70" height="65"/>&emsp;  
 <img src="https://github.com/NinITWB/NinITWB/blob/main/Pictures/icons8-c.svg" alt="C++" width="70" height="65"/>
 </p>
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=NinITWB&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinITWB&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table>
