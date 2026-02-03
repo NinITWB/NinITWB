@@ -4,7 +4,7 @@
 
 <h3><i>About me:</i></h3>
 
-<p>_I am currently a man who is interested in <strong>designing games</strong> and <strong>studying AI</strong>.</p>
+<p>_I am currently a man who is interested in <strong>studying and researching AI</strong> as well as <strong>designing games</strong>.</p>
 <p>_I am open to work as an intern to gain experiences.</p>
 <p>_I keen on generating and learning new things.</p>
 
